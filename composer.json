@@ -1,0 +1,12 @@
+{
+    "name": "icedream/test-package-with-bearer-auth",
+    "type": "library",
+    "license": "unlicensed",
+    "authors": [
+        {
+            "name": "Carl Kittelberger",
+            "email": "icedream@icedream.pw"
+        }
+    ],
+    "require": {}
+}
